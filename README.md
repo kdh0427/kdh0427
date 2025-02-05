@@ -1,8 +1,3 @@
-Hi there 👋, I'm kdh0427.
-
-🏆 Awards
-null
-
 🏃‍♂️ Activities
 삼육대학교 2024-1 SW프로젝트 경진대회 참가 (팀원)
 삼육대학교 2024-2 산학협력 캡스톤디자인1 : PersonaTalk(python) - back (팀원)
