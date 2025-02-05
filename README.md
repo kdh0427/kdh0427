@@ -31,7 +31,7 @@
 ### 🔥 **Projects**
 - [BabTalkSU(팀원)](https://github.com/GoraniPie/BaptalkSU.git)
 - [personaTalk(팀원)](https://github.com/sham-cap-team/persona-back)
-- [DataUp](https://github.com/kdh0427/sahm-1st-2team)
+- [DataUp(팀장)](https://github.com/kdh0427/sahm-1st-2team)
 
 <!-- 연락 -->
 ### 📬 **Contact Me**
