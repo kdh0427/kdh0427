@@ -12,7 +12,10 @@ null
 🚀 Stacks
 Language : java python
 
-Web : javascript html5 bootstrap
+Web : ![image](https://github.com/user-attachments/assets/cd96f9f4-1066-4f39-b029-29df4bef45d0)
+![image](https://github.com/user-attachments/assets/5df41780-f36e-4def-b7d4-e8948974d685)
+
+
 
 Framework(Web) :  Node.js
 
