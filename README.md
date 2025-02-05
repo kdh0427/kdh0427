@@ -1,20 +1,43 @@
-<div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Activities </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 삼육대학교 2024년 1학기</li><li> SW프로젝트 경진대회 참가: BaptalkSU (팀원)</li></li>삼육대학교 2024년 2학기</li><li> 산학협력 캡스톤디자인1 : PersonaTalk (팀원)</li></li>삼육대학교 2024년 겨울방학</li><li> 삼육대학교 2024 자바풀스택 개발자 양성과정(kdt) : DataUp (팀장) </div> 
-    </div>
-    <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
-    <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat&logo=Apache Tomcat&logoColor=white">
-          <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white">
-          <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
-          <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
-          <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white">
-          <br/><img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white">
-          <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white">
-          <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white">
-          <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
-          <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white">
-          <br/><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
-          <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white">
-          </div>
-    </div>
+<!-- 헤더 -->
+<h1 align="center">👋 Welcome to My GitHub Profile!</h1>
+
+<!-- 짧은 자기소개 -->
+<p align="center">
+  🚀 Developer | 💻 Tech Enthusiast | 🎨 UI/UX 관심 있음
+</p>
+
+<!-- GitHub 통계 -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kdh0427&show_icons=true&theme=radical" alt="GitHub Stats">
+</p>
+
+<!-- 사용 기술 -->
+### ⚒️ **Tech Stack**
+<p>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+</p>
+
+<!-- 깃허브 랭크 -->
+### 🌟 **GitHub Rank**
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kdh0427&row=1&column=6&theme=darkhub"/>
+</p>
+
+<!-- 주요 프로젝트 -->
+### 🔥 **Projects**
+- 🛠️ [프로젝트 1](https://github.com/kdh0427/프로젝트1)
+- 📱 [프로젝트 2](https://github.com/kdh0427/프로젝트2)
+- 🌐 [프로젝트 3](https://github.com/kdh0427/프로젝트3)
+
+<!-- 연락 -->
+### 📬 **Contact Me**
+- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+- 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/your-profile/)
+- 🌐 Blog: [Your Blog](https://yourblog.com)
+
+<!-- 마무리 -->
+---
+⭐️ From [kdh0427](https://github.com/kdh0427)
