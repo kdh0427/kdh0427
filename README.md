@@ -28,7 +28,7 @@
 
 <!-- 주요 프로젝트 -->
 ### 🔥 **Projects**
-- 🛠️ [프로젝트 1](https://github.com/kdh0427/프로젝트1)
+- [프로젝트 1](https://github.com/GoraniPie/BaptalkSU.git)
 - 📱 [프로젝트 2](https://github.com/kdh0427/프로젝트2)
 - 🌐 [프로젝트 3](https://github.com/kdh0427/프로젝트3)
 
