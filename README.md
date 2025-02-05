@@ -1,11 +1,6 @@
 <!-- 헤더 -->
 <h1 align="center">👋 Welcome to My GitHub Profile!</h1>
 
-<!-- 짧은 자기소개 -->
-<p align="center">
-  🚀 Developer | 💻 Tech Enthusiast | 🎨 UI/UX 관심 있음
-</p>
-
 <!-- GitHub 통계 -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kdh0427&show_icons=true&theme=radical" alt="GitHub Stats">
@@ -15,9 +10,15 @@
 ### ⚒️ **Tech Stack**
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DBeaver-372923?style=flat-square&logo=dbeaver&logoColor=white"/>
 </p>
 
 <!-- 깃허브 랭크 -->
@@ -29,14 +30,12 @@
 <!-- 주요 프로젝트 -->
 ### 🔥 **Projects**
 - [BabTalkSU(팀원)](https://github.com/GoraniPie/BaptalkSU.git)
-- 📱 [프로젝트 2](https://github.com/kdh0427/프로젝트2)
-- 🌐 [프로젝트 3](https://github.com/kdh0427/프로젝트3)
+- [personaTalk(팀원)](https://github.com/sham-cap-team/persona-back)
+- [DataUp](https://github.com/kdh0427/sahm-1st-2team)
 
 <!-- 연락 -->
 ### 📬 **Contact Me**
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-- 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/your-profile/)
-- 🌐 Blog: [Your Blog](https://yourblog.com)
+- Email: [donghyun0427@gmail.com](mailto:donghyun0427@gmail.com)
 
 <!-- 마무리 -->
 ---
